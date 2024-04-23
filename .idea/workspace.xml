@@ -4,142 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ecadf86-caee-4ffc-96c2-6545aadb708d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/android/ApiDemos-debug.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/android/ColorNoteNotepad.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/MVCTodo.app/Assets.car" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/MVCTodo.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/MVCTodo.app/Base.lproj/LaunchScreen.storyboardc/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/MVCTodo.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/MVCTodo.app/Frameworks/libswiftCore.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/MVCTodo.app/Frameworks/libswiftCoreFoundation.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/MVCTodo.app/Frameworks/libswiftCoreGraphics.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/MVCTodo.app/Frameworks/libswiftCoreImage.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/MVCTodo.app/Frameworks/libswiftDarwin.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/MVCTodo.app/Frameworks/libswiftDispatch.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/MVCTodo.app/Frameworks/libswiftFoundation.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/MVCTodo.app/Frameworks/libswiftMetal.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/MVCTodo.app/Frameworks/libswiftObjectiveC.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/MVCTodo.app/Frameworks/libswiftQuartzCore.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/MVCTodo.app/Frameworks/libswiftUIKit.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/MVCTodo.app/Frameworks/libswiftos.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/MVCTodo.app/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/MVCTodo.app/MVCTodo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/MVCTodo.app/MessageViewController.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/MVCTodo.app/PkgInfo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/MVCTodo.app/TDItemListRowViewController.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/MVCTodo.app/TDItemRowViewController.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/MVCTodo.app/TestViewController.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/MVCTodo.app/_CodeSignature/CodeResources" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Assets.car" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/ActivityIndicatorViewController.storyboardc/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/ActivityIndicatorViewController.storyboardc/UITableViewController-YvC-vN-mSd.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/ActivityIndicatorViewController.storyboardc/YvC-vN-mSd-view-Udh-X7-hOc.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/AlertControllerViewController.storyboardc/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/AlertControllerViewController.storyboardc/UITableViewController-Va4-Ge-jQn.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/AlertControllerViewController.storyboardc/Va4-Ge-jQn-view-iro-ev-0xV.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/ButtonViewController.storyboardc/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/ButtonViewController.storyboardc/UITableViewController-gl0-hM-EWg.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/ButtonViewController.storyboardc/gl0-hM-EWg-view-gDs-OX-aHt.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/Credits.rtf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/DatePickerController.storyboardc/7Xn-ho-KP8-view-LFl-gd-u3P.nib/objects-14.0+.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/DatePickerController.storyboardc/7Xn-ho-KP8-view-LFl-gd-u3P.nib/runtime.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/DatePickerController.storyboardc/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/DatePickerController.storyboardc/UIViewController-7Xn-ho-KP8.nib/objects-14.0+.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/DatePickerController.storyboardc/UIViewController-7Xn-ho-KP8.nib/runtime.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/ImageViewController.storyboardc/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/ImageViewController.storyboardc/UIViewController-XCI-A9-c2M.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/ImageViewController.storyboardc/XCI-A9-c2M-view-InE-1J-uPb.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/LaunchScreen.storyboardc/Axx-hg-9Xm-view-Bd8-dr-7ve.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/LaunchScreen.storyboardc/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/LaunchScreen.storyboardc/UINavigationController-4yX-ry-qSy.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/Main.storyboardc/GgB-cT-22O-view-aE8-Eb-ul8.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/Main.storyboardc/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/Main.storyboardc/MasterViewController.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/Main.storyboardc/initialDetail.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/Main.storyboardc/ioe-is-9Fo-view-Ie1-Wu-iah.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/Main.storyboardc/navInitialDetail.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/Main.storyboardc/splitView.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/PageControlViewController.storyboardc/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/PageControlViewController.storyboardc/UIViewController-ZSF-lM-gQa.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/PageControlViewController.storyboardc/ZSF-lM-gQa-view-1Df-6J-Q8v.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/PickerViewController.storyboardc/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/PickerViewController.storyboardc/UIViewController-hIc-I2-PiV.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/PickerViewController.storyboardc/hIc-I2-PiV-view-EB5-Ny-mbq.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/ProgressViewController.storyboardc/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/ProgressViewController.storyboardc/UITableViewController-aY0-FD-8DD.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/ProgressViewController.storyboardc/aY0-FD-8DD-view-vxe-YC-yBi.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/SearchViewControllers.storyboardc/CustomSearchBarViewController.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/SearchViewControllers.storyboardc/DefaultSearchBarViewController.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/SearchViewControllers.storyboardc/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/SearchViewControllers.storyboardc/Mhd-Bs-sIn-view-YVy-et-UAQ.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/SearchViewControllers.storyboardc/Search.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/SearchViewControllers.storyboardc/SearchBarEmbedInNavBarViewController.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/SearchViewControllers.storyboardc/SearchResultsViewController.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/SearchViewControllers.storyboardc/Thx-B6-QkK-view-QvM-3S-GbD.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/SearchViewControllers.storyboardc/aRM-gX-SK9-view-1PE-AW-QJq.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/SearchViewControllers.storyboardc/aTT-8g-UdL-view-VZF-3b-rcm.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/SearchViewControllers.storyboardc/v21-vF-FLh-view-d2N-kr-XWw.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/SegmentedControlViewController.storyboardc/Eil-ie-nN6-view-fLQ-5f-tUh.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/SegmentedControlViewController.storyboardc/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/SegmentedControlViewController.storyboardc/UITableViewController-Eil-ie-nN6.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/SliderViewController.storyboardc/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/SliderViewController.storyboardc/UITableViewController-laz-6N-ZhE.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/SliderViewController.storyboardc/laz-6N-ZhE-view-8xG-xW-Mvc.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/StackViewController.storyboardc/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/StackViewController.storyboardc/K8w-Uq-R9J-view-Hwb-09-b4P.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/StackViewController.storyboardc/UIViewController-K8w-Uq-R9J.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/StepperViewController.storyboardc/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/StepperViewController.storyboardc/Ob2-pp-aCj-view-aQ3-9F-Tmi.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/StepperViewController.storyboardc/UITableViewController-Ob2-pp-aCj.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/SwitchViewController.storyboardc/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/SwitchViewController.storyboardc/UITableViewController-zcI-oN-J3j.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/SwitchViewController.storyboardc/zcI-oN-J3j-view-4ER-nG-feZ.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/TextFieldViewController.storyboardc/DSJ-7r-oCY-view-dyj-uS-k8j.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/TextFieldViewController.storyboardc/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/TextFieldViewController.storyboardc/UITableViewController-DSJ-7r-oCY.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/TextViewController.storyboardc/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/TextViewController.storyboardc/UIViewController-pUP-b0-VMf.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/TextViewController.storyboardc/pUP-b0-VMf-view-eAJ-am-dgQ.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/ToolbarViewControllers.storyboardc/CustomToolbarViewController.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/ToolbarViewControllers.storyboardc/DefaultToolbarViewController.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/ToolbarViewControllers.storyboardc/FY6-YQ-KUW-view-cQQ-vC-cql.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/ToolbarViewControllers.storyboardc/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/ToolbarViewControllers.storyboardc/P5B-ej-GR8-view-lTJ-Dz-yrG.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/ToolbarViewControllers.storyboardc/TintedToolbarViewController.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/ToolbarViewControllers.storyboardc/Toolbars.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/ToolbarViewControllers.storyboardc/c6p-Xx-oIp-view-LTn-gr-hZ8.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/ToolbarViewControllers.storyboardc/cTo-Y6-RL4-view-YY9-uv-rey.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/WebViewController.storyboardc/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/WebViewController.storyboardc/UIViewController-i9U-A8-mkf.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/WebViewController.storyboardc/i9U-A8-mkf-view-cde-Ag-lVB.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Base.lproj/content.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/PkgInfo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/UIKitCatalog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ios/UIKitCatalog-iphonesimulator.app/_CodeSignature/CodeResources" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/wdio.android.browserstack.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/wdio.android.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/wdio.ios.browserstack.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/wdio.ios.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learnWebdriverIO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/screenobjects/android/add-note.screen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/screenobjects/android/delete-note.screen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/screenobjects/ios/items.screen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/screenobjects/ios/list.screen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/specs/andriod-findElement.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/specs/android-native.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/specs/android/add-delete-note.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/specs/ios-findElement.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/specs/ios/create-list.spec.js" afterDir="false" />
+    <list default="true" id="8ecadf86-caee-4ffc-96c2-6545aadb708d" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,27 +35,28 @@
     <option name="autoscrollToSource" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/t822554/projects/webDriverIO/learnWebdriverIO/config&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs.mocha.mocha_node_package_dir&quot;: &quot;&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;http.proxy&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/t822554/projects/webDriverIO/learnWebdriverIO/config",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.mocha.mocha_node_package_dir": "",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "http.proxy",
+    "ts.external.directory.path": "/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/config" />
@@ -243,11 +110,25 @@
       <workItem from="1713475177945" duration="17019000" />
       <workItem from="1713817789684" duration="6801000" />
       <workItem from="1713826747277" duration="229000" />
+      <workItem from="1713826987302" duration="1463000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1713827170354</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713827170354</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
