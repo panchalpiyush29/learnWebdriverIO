@@ -1,9 +1,8 @@
 const path = require('path');
 const {config} = require('./wdio.shared.conf.js');
 
-
-config.user = 'piyushpanchal3';
-config.key = 'DxyTKzt26Hb6qGjEskiy';
+config.user = process.env.BROWSERSTACK_USER;
+config.key = process.env.BROWSERSTACK_KEY;
 
 config.specs = [
     '../test/specs/ios/*.js'
@@ -15,7 +14,7 @@ config.capabilities = [
         'platformVersion': '17.4',
         'deviceName': 'iPhone 15 Pro Max',
         'automationName': 'XCuiTest',
-        'app': path.join(process.cwd(), 'app/ios/MVCTodo.app'),
+        'app': 'bs://eede1118ccbdcfbfc1d6749102526954eab89998'
     }
 ];
 config.services = ['browserstack']

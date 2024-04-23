@@ -14,7 +14,7 @@ config.capabilities = [
         'deviceName': 'Google Pixel 7 Pro',
         'automationName': 'UiAutomator2',
         'app': 'bs://eede1118ccbdcfbfc1d6749102526954eab89998',
-        'autoGrantPermissions': true,
+        'autoGrantPermissions': true
     }
 ]
 config.services = ['browserstack']

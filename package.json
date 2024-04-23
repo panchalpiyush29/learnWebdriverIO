@@ -1,6 +1,7 @@
 {
   "name": "learnWebdriverIO",
   "devDependencies": {
+    "@wdio/allure-reporter": "^8.36.1",
     "@wdio/appium-service": "^8.35.1",
     "@wdio/browserstack-service": "^8.36.1",
     "@wdio/cli": "^8.35.1",
@@ -17,6 +18,7 @@
     "wdio": "wdio run config/wdio.shared.conf.js"
   },
   "dependencies": {
+    "allure-commandline": "^2.28.0",
     "ts-node": "^10.9.2"
   }
 }
